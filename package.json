@@ -30,7 +30,7 @@
     "@nestjs-plus/discovery": "^2.0.2",
     "aws-sdk": "^2.948.0",
     "sqs-consumer": "^6.0.0",
-    "sqs-producer": "^2.1.0"
+    "sqs-producer": "^6.0.0"
   },
   "devDependencies": {
     "@nestjs/common": "10.0.0",
